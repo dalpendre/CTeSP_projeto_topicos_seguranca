@@ -5,10 +5,7 @@ C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.exe
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.pdb
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Servidor\bin\Debug\Servidor.exe.config
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Servidor\bin\Debug\Servidor.exe
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Servidor\bin\Debug\Servidor.pdb
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.exe
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.pdb
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\bin\Debug\Database1.mdf
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\bin\Debug\Database1_log.ldf
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.csproj.CopyComplete

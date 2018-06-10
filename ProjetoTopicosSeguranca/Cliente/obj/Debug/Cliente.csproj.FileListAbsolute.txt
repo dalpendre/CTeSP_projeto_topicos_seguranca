@@ -7,13 +7,5 @@ C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.cs
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.exe
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.pdb
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\bin\Debug\Cliente.exe.config
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\bin\Debug\Cliente.exe
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\bin\Debug\Cliente.pdb
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.Form1.resources
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.Properties.Resources.resources
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.exe
-C:\Users\danie\OneDrive\Documents\GitHub\TSegur\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.pdb
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.csproj.CopyComplete
