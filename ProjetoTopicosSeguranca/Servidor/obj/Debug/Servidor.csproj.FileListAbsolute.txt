@@ -5,3 +5,7 @@ C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.exe
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.pdb
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\bin\Debug\Database1.mdf
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\bin\Debug\Database1_log.ldf
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\bin\Debug\ProtocolSI.dll
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Servidor\obj\Debug\Servidor.csproj.CopyComplete

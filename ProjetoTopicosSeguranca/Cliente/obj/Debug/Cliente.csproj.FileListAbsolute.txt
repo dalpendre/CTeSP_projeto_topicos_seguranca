@@ -7,3 +7,6 @@ C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.cs
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.exe
 C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.pdb
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\danie\source\repos\ProjetoTopicosSeguranca\Cliente\obj\Debug\Cliente.Form1.resources
